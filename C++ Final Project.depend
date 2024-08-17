@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1720765243 source:c:\users\rog\documents\c\c++ final project\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<fstream>
+	<time.h>
+	<algorithm>
+	<unistd.h>
+	"Food struct.h"
+	"Western.h"
+	"Japanese.h"
+	"Chinese.h"
+	"Malay.h"
+	"Arabic.h"
+	"user.h"
+	"Customer.h"
+	"Rider.h"
+	"Order.h"
+	"orderDetails.h"
+
+1720628655 c:\users\rog\documents\c\c++ final project\user.h
+	<string>
+
+1720628418 c:\users\rog\documents\c\c++ final project\customer.h
+	"user.h"
+
+1720536240 c:\users\rog\documents\c\c++ final project\system.h
+	<string>
+	<sstream>
+	<fstream>
+	"user.h"
+	"Customer.h"
+	"Rider.h"
+	"Restaurant.h"
+	"Food.h"
+	"Western.h"
+	"Japanese.h"
+	"Chinese.h"
+	"Malay.h"
+	"Arabic.h"
+	"Food struct.h"
+	"Order.h"
+	"orderDetails.h"
+
+1720628697 c:\users\rog\documents\c\c++ final project\rider.h
+	"user.h"
+
+1720629998 c:\users\rog\documents\c\c++ final project\restaurant.h
+	<string>
+	"Food.h"
+	"Western.h"
+	"Japanese.h"
+	"Chinese.h"
+	"Malay.h"
+	"Arabic.h"
+
+1720628716 c:\users\rog\documents\c\c++ final project\food.h
+
+1720627915 c:\users\rog\documents\c\c++ final project\western.h
+	<vector>
+	"Food.h"
+
+1720628663 c:\users\rog\documents\c\c++ final project\food struct.h
+	<vector>
+
+1720671574 c:\users\rog\documents\c\c++ final project\order.h
+	<vector>
+	<sstream>
+	<fstream>
+	<string>
+	"user.h"
+	"Customer.h"
+	"Rider.h"
+	"Restaurant.h"
+	"Food.h"
+	"Western.h"
+	"Japanese.h"
+	"Chinese.h"
+	"Malay.h"
+	"Arabic.h"
+	"orderDetails.h"
+
+1720776800 c:\users\rog\documents\c\c++ final project\orderdetails.h
+	<vector>
+	"user.h"
+	"Customer.h"
+	"Rider.h"
+	"Restaurant.h"
+	"Food.h"
+	"Western.h"
+	"Japanese.h"
+	"Chinese.h"
+	"Malay.h"
+	"Arabic.h"
+
+1720627928 c:\users\rog\documents\c\c++ final project\japanese.h
+	<vector>
+	"Food.h"
+
+1720627827 c:\users\rog\documents\c\c++ final project\chinese.h
+	<vector>
+	"Food.h"
+
+1720627926 c:\users\rog\documents\c\c++ final project\malay.h
+	<vector>
+	"Food.h"
+
+1720627769 c:\users\rog\documents\c\c++ final project\arabic.h
+	<vector>
+	"Food.h"
+
